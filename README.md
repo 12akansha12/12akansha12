@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akansha Singh
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...(Agular,Java,Sprinboot,Kafka and many more)
+- 🌱 I’m currently learning ...(Angular,TypeScript,Java,Sprinboot,Kafka and many more)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.linkedin.com/in/akansha-singh-6b01321b2/
 
